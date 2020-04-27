@@ -31,7 +31,7 @@ public class MainClass {
         Person person1 = new Person("Michael Scott", "Regional Manager");
         Person person2 = new Person("Dwight Schrute", "Assistant to the regional manager");
         Person person3 = new Person("Jim Halpert", "Head of Sales");
-        Person person4 = new Person("Stanley Hudson", "Sales");
+        Person person4 = new Person("Stanley Hudson", "Sales Rep");
 
         list.printSize();
 
